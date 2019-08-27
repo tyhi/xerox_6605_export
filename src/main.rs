@@ -4,6 +4,7 @@ use std::collections::HashMap;
 use std::io;
 
 fn main() {
+    
     println!("Input IP Address:");
 
     let mut ip = String::new();
